@@ -9,7 +9,8 @@ monuments-historiques
 .. end short_desc
 
 .. figure:: https://domdfcoding.github.io/assets/img/monuments-historiques-screenshot.png
-   :scale: 25 %
+   :width: 500px
+   :height: 500px
    :alt: Screenshot of the map
 
    `View The Map`_
