@@ -8,6 +8,27 @@ monuments-historiques
 
 .. end short_desc
 
+.. figure:: https://domdfcoding.github.io/assets/img/monuments-historiques-screenshot.png
+   :scale: 25 %
+   :alt: Screenshot of the map
+
+   `View The Map`_
+
+
+-----
+
+| Dataset downloaded from `data.gouv.fr`_.
+
+| Dataset downloaded from the `Historic England Open Data Hub`_.
+| © Monuments historiques 2026.
+| Licenced under the `Licence Ouverte / Open Licence version 2.0`_.
+
+.. _View The map: https://domdfcoding.github.io/monuments-historiques/
+.. _data.gouv.fr: https://www.data.gouv.fr/datasets/immeubles-proteges-au-titre-des-monuments-historiques-2
+.. _Licence Ouverte / Open Licence version 2.0: https://www.etalab.gouv.fr/licence-ouverte-open-licence
+
+-----
+
 
 .. start shields
 
