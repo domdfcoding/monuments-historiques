@@ -5,6 +5,8 @@ domdf-python-tools>=3.10.0
 folium>=0.20.0
 folium-about-button>=0.2.0
 folium-map-search @ git+https://github.com/domdfcoding/folium-map-search
+folium-map-swap-control>=0.1.0.post1
 folium-zoom-state>=0.1.0
+jinja2>=3.1.6
 nhle-map @ git+https://github.com/domdfcoding/nhle-map
 requests>=2.33.1

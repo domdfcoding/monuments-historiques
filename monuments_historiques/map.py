@@ -32,7 +32,7 @@ from domdf_folium_tools import markercluster
 from domdf_folium_tools.elements import LocateControl, add_to, set_id
 from folium_about_button import AboutControl
 from folium_map_search import MapSearchControl, MapSearchProvider
-# from folium_map_swap_control import MapSwapControl
+from folium_map_swap_control import MapSwapControl
 from folium_zoom_state import OverlayState, ZoomStateJS
 from nhle_map.map import LayerControl, Map, MarkerGroup, MarkerLoadingJS
 
@@ -65,7 +65,7 @@ def make_map() -> folium.Map:
 
 	m = Map(
 			location=(46.7692, 2.4442),
-			minZoom=9,
+			minZoom=6,
 			maxZoom=MAX_ZOOM,
 			zoom_start=11,
 			wheelPxPerZoomLevel=80,
@@ -125,12 +125,12 @@ def make_map() -> folium.Map:
 			disable_enter_search=True,  # Otherwise markers don't appear 🤷
 			close_on_submit=True,
 			).add_to(m)
-	# MapSwapControl(
-	# 		maps={
-	# 				'<i class="fa-solid fa-fire fa-fw"></i> Heatmap': "heatmap.html",
-	# 				# '<i class="fa-solid fa-map fa-fw"></i> Default': '/',
-	# 				},
-	# 		).add_to(m)
+	MapSwapControl(
+			maps={
+					"🏴󠁧󠁢󠁥󠁮󠁧󠁿🏴󠁧󠁢󠁷󠁬󠁳󠁿 England & Wales": "https://domdfcoding.github.io/nhle-map/",
+					'<i class="fa-solid fa-map fa-fw"></i> More': "https://domdfcoding.github.io/maps/",
+					},
+			).add_to(m)
 
 	layer_control = add_to(LayerControl(), m, "basemap")
 	OverlayState(layer_control).add_to(m)

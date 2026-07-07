@@ -108,12 +108,12 @@ def make_map(output_directory: str = "output") -> None:
 	from domdf_folium_tools import set_branca_random_seed
 	from domdf_folium_tools.elements import render_figure
 	from domdf_python_tools.paths import PathPlus
-	from nhle_map.templates import render_template
 	from nhle_map.utils import copy_static_files, write_layer_data
 
 	# this package
 	from monuments_historiques import constants
 	from monuments_historiques.map import make_map
+	from monuments_historiques.templates import render_template
 
 	set_branca_random_seed("NHLE")
 
@@ -136,9 +136,8 @@ def make_map(output_directory: str = "output") -> None:
 	map_html = render_template(
 			"map.jinja2",
 			**render_figure(root)._asdict(),
-			title="England and Wales Listed Buildings Map",
-			description='Map showing Listed Buildings, Scheduled Monuments, Parks & Gardens, and more from the <a href="https://historicengland.org.uk/listing/the-list/">National Heritage List for England</a>.',
-			uses_welsh_data=True,
+			title="France Monuments Historique Map",
+			description="Map showing Monuments Historique in France.",
 			layers=constants.LAYERS,
 			layers_data=layers_data,
 			most_recent_modification=most_recent_modification,

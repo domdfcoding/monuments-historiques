@@ -69,6 +69,10 @@ def download_data(output_directory: PathLike) -> dict[str, Any]:
 
 	total_lines = profile_json["profile"]["total_lines"]
 
+	data_resp = requests.get(data_url)
+	data_resp.raise_for_status()
+	data_json = data_resp.json()
+
 	description_en = "This map presents buildings and buildings that have been or are protected under Historic Monuments (classified or inscribed), from the year 1840 to the present. The list presents all the information available on the Mérimée base, which itself comes from the order and the protection file, drawn up by the Historic Monuments service. Protected buildings date from prehistory in the 20th century."
 	description_fr = "Cette carte présente les édifices et immeubles qui ont été ou sont protégés au titre des Monuments historiques (classés ou inscrits), depuis l’année 1840 jusqu’à aujourd’hui. La liste présente l’ensemble des informations disponibles sur la base Mérimée, qui proviennent elles-mêmes de l’arrêté et du dossier de protection, établis par le service des Monuments historiques. Les édifices protégés datent de la Préhistoire au 20e siècle."
 
@@ -79,8 +83,8 @@ def download_data(output_directory: PathLike) -> dict[str, Any]:
 			"serviceItemId": profile_json["dataset_id"],
 			"copyrightText": '',  # TODO
 			"editingInfo": {
-					"dataLastEditDate": created_at.timestamp(),
-					"lastEditDate": created_at.timestamp(),
+					"dataLastEditDate": created_at.timestamp() * 1000,
+					"lastEditDate": created_at.timestamp() * 1000,
 					},
 			}]
 	meta: dict[str, Any] = {
@@ -89,10 +93,6 @@ def download_data(output_directory: PathLike) -> dict[str, Any]:
 			}
 
 	# TODO: check last edit date against meta.json to see if update needed
-
-	data_resp = requests.get(data_url)
-	data_resp.raise_for_status()
-	data_json = data_resp.json()
 
 	geojson = {
 			"type": "FeatureCollection",
