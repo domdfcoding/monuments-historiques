@@ -1,0 +1,14 @@
+// Lat: 5 — -55, Lng: 6 — -54,
+// Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
+var monumentsHistoriques484059997 = [
+[5.5011884394, -54.0321829842, "PA00105912", "Ancien h\u00f4pital Andr\u00e9-Bouron", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105912&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+[5.5046843307, -54.0284347464, "PA00105913", "Tr\u00e9sorerie", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105913&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+[5.5053193738, -54.0290426958, "PA00105914", "Sous-pr\u00e9fecture", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105914&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1862"],
+[5.5051274594, -54.0301416799, "PA00105915", "Subdivision de l'\u00e9quipement", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105915&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1860"],
+[5.5065764006, -54.0272391781, "PA00105923", "R\u00e9sidence du Sous-Pr\u00e9fet", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105923&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+[5.5031631493, -54.02835389, "PA00135692", "\u00c9glise paroissiale d\u00e9di\u00e9e \u00e0 Saint-Laurent", "arr\u00eat\u00e9", "Sat, 10 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00135692&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+[5.5017967639, -54.0282105603, "PA00135693", "Immeuble dit \"Maison bleue\", sis \u00e0 l'angle des rues Montravel et Tourtet", "arr\u00eat\u00e9;d\u00e9cret", "Sat, 10 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00135693&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+[5.503212, -54.027927, "PA97300017", "Le presbyt\u00e8re", "arr\u00eat\u00e9", "Sun, 18 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA97300017&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+[5.506396, -54.027906, "PA97300018", "Maison dite du Receveur des douanes", "arr\u00eat\u00e9", "Sun, 18 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA97300018&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+[5.502385, -54.029119, "PA97300020", "Relais Barcarel", "arr\u00eat\u00e9", "Mon, 19 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA97300020&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+]
