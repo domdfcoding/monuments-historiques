@@ -1,0 +1,35 @@
+# Configuration for 'repo_helper' (https://github.com/repo-helper/repo_helper)
+---
+modname: 'monuments-historiques'
+copyright_years: '2026'
+author: 'Dominic Davis-Foster'
+email: 'dominic@davis-foster.co.uk'
+username: 'domdfcoding'
+version: '0.0.0'
+license: 'MIT'
+short_desc: 'Map showing French Monuments Historiques (Historic Monuments).'
+
+enable_conda: false
+enable_tests: false
+enable_docs: false
+use_whey: true
+on_pypi: false
+
+python_versions:
+  "3.10":
+  "3.11":
+  "3.12":
+  "3.13":
+
+manifest_additional:
+  - recursive-include monuments_historiques/static/ *
+  - recursive-include monuments_historiques/templates/ *
+
+extra_formate_deps:
+ - formate-js>=0.1.0
+
+extra_formate_types:
+ - javascript
+ - ts
+
+pre_commit_exclude: "^output/(data/|static/js/layer_data.js)"
