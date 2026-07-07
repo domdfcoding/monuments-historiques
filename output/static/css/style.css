@@ -1,0 +1,264 @@
+.map-container {
+	width: 100vw;
+	height: 100vh;
+}
+
+#map {
+	width: 100%;
+
+	/* height: 95%; */
+	height: 100%;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+}
+
+@supports (height: 100dvh) {
+	.map-container {
+		height: 100dvh;
+	}
+}
+
+@supports (height: 100svh) {
+	.map-container {
+		height: 100svh;
+	}
+}
+
+.leaflet-popup-close-button {
+	margin-right: 4px;
+	margin-top: 4px;
+
+	span {
+		font-size: 24px;
+	}
+}
+
+.leaflet-popup .card {
+	p.card-text, a {
+		font-size: 14px;
+		margin-top: 0.5rem;
+		margin-bottom: 0.5rem;
+	}
+}
+
+/* .leaflet-container { font-size: 16px; } */
+.leaflet-control-layers-minimap { font-size: 16px; }
+
+.leaflet-control-layers-expanded.leaflet-control-layers-minimap {
+	/* width: 250px; */
+	width: 260px;
+}
+
+
+/* === Styles for custom layer control when not showing a minimap === */
+.leaflet-lc-overlay-container {
+	margin-bottom: 2px;
+	position: relative;
+	display: block;
+	height: fit-content;
+	min-height: 25px;
+}
+
+.leaflet-lc-overlay-container .leaflet-minimap-label {
+	position: unset;
+	display: block;
+	height: fit-content;
+	min-height: 22px;
+	bottom: 0;
+	left: 0;
+	padding: 2px 6px 2px 2px;
+	background-color: rgb(0 0 0 / 70%);
+	color: white;
+	white-space: nowrap;
+	z-index: 1000;
+
+	span {
+		text-wrap: wrap;
+	}
+}
+
+.leaflet-lc-overlay-container .leaflet-minimap-label .leaflet-control-layers-selector {
+	top: unset;
+}
+
+.leaflet-lc-overlay-container.leaflet-minimap-hidden {
+	display: none;
+}
+
+/* === End styles for custom layer control when not showing a minimap === */
+
+
+.modal table.legend tr th {
+	color: white;
+	width: 1%;
+	white-space: nowrap;
+}
+
+.modal table.legend tr td.expand-btn {
+	width: fit-content;
+	white-space: nowrap;
+}
+
+
+.modal table.legend tr td.layer-name {
+	width: fit-content;
+
+	@media (width >= 992px) {
+		white-space: nowrap;
+	}
+}
+
+
+.description-container .description-collapse.collapse:not(.show) {
+	display: block;
+	overflow: hidden;
+}
+
+
+.description-container {
+	padding: unset;
+}
+
+@media (width < 992px) {
+	.description-container .description-collapse.collapse:not(.show) {
+		height: 4.5rem;
+	}
+
+	.description-container .description-collapse.collapsing {
+		height: 4.5rem;
+	}
+
+	.expand-btn {
+		padding-left: 0 !important;
+		padding-right: 0.25rem !important;
+	}
+
+	.layer-description, .layer-description .description-container {
+		padding-right: 0 !important;
+	}
+
+	a.description-btn.collapsed::after {
+		content: "+";
+		font-size: 24px;
+	}
+
+	a.description-btn:not(.collapsed)::after {
+		content: "−";
+		font-size: 24px;
+	}
+}
+
+@media (width >= 992px) {
+	.description-container .description-collapse.collapse:not(.show) {
+		height: 1.5rem;
+	}
+
+	.description-container .description-collapse.collapsing {
+		height: 1.5rem;
+	}
+
+	a.description-btn.collapsed::after {
+		content: "+ More";
+	}
+
+	a.description-btn:not(.collapsed)::after {
+		content: "− Less";
+	}
+}
+
+.description-container p {
+	margin-bottom: unset;
+}
+
+.leaflet-all-layers-buttons input {
+	background-color: rgb(0 0 0 / 70%);
+	color: white;
+	white-space: nowrap;
+	z-index: 1000;
+}
+
+
+.leaflet-control.geosearch form {
+	input {
+		font-size: 14px !important;
+	}
+
+	.results.active {
+		font-size: 14px;
+	}
+}
+
+.leaflet-control-map-swap .map-swap-links {
+	font-size: 14px;
+
+	a {
+		font-size: 14px;
+		white-space: nowrap;
+		min-width: 100%;
+	}
+}
+
+
+@media (width <= 700px) {
+	.leaflet-control-attribution {
+		max-width: 320px;
+	}
+
+
+	.leaflet-control {
+		transition: opacity 0.5s;
+	}
+
+	.leaflet-container:has(.leaflet-popup) .leaflet-top.leaflet-left .leaflet-control {
+		opacity: 0.5;
+	}
+}
+
+@media (width <= 500px) {
+	.leaflet-control-attribution {
+		max-width: 200px;
+	}
+}
+
+
+.nhle-popup {
+	max-width: 55vw;
+}
+
+
+.leaflet-popup-content {
+	/* margin-right: calc(24px - 8px); */
+	margin-left: calc(20px - 8px);
+}
+
+
+.leaflet-control-geosearch.active {
+	border-radius: 4px 0 0 4px;
+
+	a.leaflet-bar-part {
+		border-radius: 2px 0 0 2px;
+	}
+}
+
+.leaflet-bar-timecontrol div.timecontrol-date {
+	min-width: unset;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+.leaflet-popup-content-wrapper {
+	outline-style: solid;
+	outline-width: 0.2vw;
+}
+
+.leaflet-lc-overlay-container .leaflet-minimap-label .colour-legend {
+	height: 1rem;
+	aspect-ratio: 1 / 1;
+	display: inline-block;
+	margin-left: 2px;
+	border: black 2px solid;
+	vertical-align: middle;
+	bottom: 1px;
+	position: relative;
+}
