@@ -134,7 +134,7 @@ def make_map(output_directory: str = "output") -> None:
 	root: branca.element.Figure = m.get_root()  # type: ignore[assignment]
 
 	map_html = render_template(
-			"map.jinja2",
+			"france_map.jinja2",
 			**render_figure(root)._asdict(),
 			title="France Monuments Historique Map",
 			description="Map showing Monuments Historique in France.",
