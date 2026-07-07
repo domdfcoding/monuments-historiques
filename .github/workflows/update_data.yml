@@ -1,0 +1,57 @@
+---
+name: Update Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * 2"
+
+jobs:
+  tests:
+    permissions:
+      contents: write
+      pull-requests: write
+    name: "Update Data"
+    runs-on: "ubuntu-22.04"
+
+    steps:
+      - name: Checkout 🛎️
+        uses: "actions/checkout@v4"
+
+      - name: Setup Python 🐍
+        id: setup-python
+        uses: "actions/setup-python@v5"
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies 🔧
+        if: steps.setup-python.outcome == 'success'
+        run: |
+          python -VV
+          python -m site
+          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install --upgrade -r requirements.txt
+
+      - name: "Download and prepare data"
+        if: steps.setup-python.outcome == 'success'
+        run: python -m monuments_historiques prepare-data -d
+
+      - name: "Update map"
+        if: steps.setup-python.outcome == 'success'  # TODO: set previous step outcome too
+        run: python -m monuments_historiques make-map
+
+      - name: "Stage changes"
+        if: steps.setup-python.outcome == 'success'  # TODO: set previous step outcome too
+        uses: EndBug/add-and-commit@v10
+        with:
+          add: 'output'
+          default_author: github_actions
+          message: 'Update data from data.gouv.fr'
+          new_branch: update-data
+          push: '--set-upstream origin update-data --force'
+
+      - name: Create Pull Request
+        run: gh pr create -B master -H update-data --title 'Update data from data.gouv.fr' --body ''
+        # TODO: add last updated time  --body ''
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
