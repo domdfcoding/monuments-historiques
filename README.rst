@@ -19,8 +19,6 @@ monuments-historiques
 -----
 
 | Dataset downloaded from `data.gouv.fr`_.
-
-| Dataset downloaded from the `Historic England Open Data Hub`_.
 | © Monuments historiques 2026.
 | Licenced under the `Licence Ouverte / Open Licence version 2.0`_.
 
