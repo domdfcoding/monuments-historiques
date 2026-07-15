@@ -646,6 +646,7 @@ var monumentsHistoriques2983438982 = [
 [49.01823255, 0.0392566852, "PA14000113", "Manoir de Boissey", "arr\u00eat\u00e9", "Mon, 19 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA14000113&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [49.0198357288, 0.2044202471, "PA14000116", "Manoir des Loges", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null, "1503;1504"],
 [49.1020433436, 0.0767238546, "PA14000118", "\u00c9glise Notre-Dame-de-l'Assomption", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
+[49.3682184, 0.0808792095, "PA14000119", "\u00c9glise Notre-Dame-de-Bon-Secours", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null, "1870;1884"],
 [49.390648545, 0.5947695784, "PA27000002", "Manoir de Beaumont", "arr\u00eat\u00e9", "Sun, 11 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA27000002&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [49.2135040168, 0.6751079911, "PA27000003", "\u00c9glise Saint-Cyr et Sainte-Julitte", "arr\u00eat\u00e9", "Sun, 11 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA27000003&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [49.0953582777, 0.9739690878, "PA27000009", "Ch\u00e2teau de Graveron", "arr\u00eat\u00e9", "Sun, 11 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA27000009&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
