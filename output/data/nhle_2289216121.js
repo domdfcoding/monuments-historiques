@@ -760,5 +760,6 @@ var monumentsHistoriques2289216121 = [
 [43.9900301828, 1.3978642589, "PA82000022", "Ch\u00e2teau de Riblaye", "arr\u00eat\u00e9", "Thu, 15 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA82000022&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [43.8597982817, 1.2041866616, "PA82000032", "Pigeonnier de Borde de Nadesse", "arr\u00eat\u00e9", "Fri, 16 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA82000032&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1740"],
 [43.8172414446, 1.1192135789, "PA82000035", "Chapelle Saint-Pierre du cimeti\u00e8re", "arr\u00eat\u00e9", "Sat, 17 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA82000035&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+[43.9587610476, 1.0873243, "PA82000043", "Ch\u00e2teau de Terride", "arr\u00eat\u00e9", "Mon, 19 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA82000043&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [43.8304498834, 1.2019765204, "PA82000048", "Ch\u00e2teau de Fourcaran", "arr\u00eat\u00e9", "Mon, 19 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA82000048&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1645"],
 ]
