@@ -560,6 +560,7 @@ var monumentsHistoriques1491569862 = [
 [45.559958661, 0.1164584038, "PA16000068", "Ch\u00e2teau de la Rochandry", "arr\u00eat\u00e9", "Tue, 20 Jan 1970", null],
 [45.9222356241, 0.3559891564, "PA16000069", "Ch\u00e2teau de Sansac", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [45.8235629565, 0.4391671916, "PA16000070", "N\u00e9cropole nationale", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null, "1951;1970"],
+[45.6702597568, 0.4464483234, "PA16000071", "Trois gisements pr\u00e9historiques", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [45.2251289987, 0.8748644806, "PA24000011", "Grotte pr\u00e9historique de Combe Sauni\u00e8re", "arr\u00eat\u00e9", "Sun, 11 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA24000011&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [45.3269491722, 0.5894069185, "PA24000012", "Grotte du Trou de la Ch\u00e8vre", "arr\u00eat\u00e9", "Sun, 11 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA24000012&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [45.3291940903, 0.5897538516, "PA24000013", "Site de la grotte pr\u00e9historique des Bernoux", "arr\u00eat\u00e9", "Sun, 11 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA24000013&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
