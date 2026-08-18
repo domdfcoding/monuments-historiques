@@ -388,6 +388,7 @@ var monumentsHistoriques939888983 = [
 [47.6383358837, 2.7385646149, "PA45000053", "Monument de Jean-F\u00e9lix Bapterosses", "arr\u00eat\u00e9", "Sun, 18 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA45000053&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [47.9951512349, 2.745003325, "PA45000054", "Maison Feuillette et ses d\u00e9pendances", "arr\u00eat\u00e9", "Mon, 19 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA45000054&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [47.9884950586, 2.7313319691, "PA45000055", "Caserne Gudin", "arr\u00eat\u00e9;d\u00e9cret", "Tue, 20 Jan 1970", null, "1874;1877"],
+[47.8248021521, 2.4841860029, "PA45000059", "Les quatre maisons foresti\u00e8res et le monument comm\u00e9moratif situ\u00e9s au Carrefour de la R\u00e9sistance", "arr\u00eat\u00e9", "Tue, 20 Jan 1970", null],
 [47.8238753952, 2.8455492946, "PA45000060", "Monument \u00e0 l\u2019amiral Gaspard de Coligny", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null, "1880"],
 [47.8208256265, 2.8458194013, "PA45000061", "Monument au physicien Antoine Becquerel", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null, "1882"],
 [47.8671684509, 2.1221764737, "PA45000062", "Monument \u00e0 Jeanne d\u2019Arc bless\u00e9e \u00e0 la bataille de Jargeau", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null, "1895;1898"],
