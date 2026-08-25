@@ -698,6 +698,7 @@ var monumentsHistoriques4273702818 = [
 [50.4576836494, 2.5510367743, "PA62000180", "\u00c9cole Jules Elby", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [50.521286478, 2.4213511607, "PA62000183", "Chapelle Sainte-M\u00e9lanie", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [50.3755823929, 2.0416183502, "PA62000185", "Man\u00e8ge (ancien man\u00e8ge de cavalerie)", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
+[50.3753343669, 2.0352649958, "PA62000186", "Caserne Tripier", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [50.3747678328, 2.033851565, "PA62000187", "Orillon du bastion Richelieu", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [50.3740098048, 2.0425315987, "PA62000189", "Maison de l\u2019architecte Clovis Normand", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [50.0041230595, 2.6482940479, "PA80000002", "Basilique de Notre-Dame-de-Br\u00e9bi\u00e8res", "arr\u00eat\u00e9", "Sun, 11 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA80000002&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1884;1927"],
