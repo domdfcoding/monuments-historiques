@@ -434,4 +434,5 @@ var monumentsHistoriques2494752600 = [
 [47.631243391, -3.1195197057, "PA56000141", "Tertre de Lannec er Gadouer", "arr\u00eat\u00e9", "Tue, 20 Jan 1970", null],
 [47.8108796735, -3.3405202009, "PA56000144", "\u00c9glise Saint-Pierre-Saint-Paul", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null, "1962"],
 [47.7633450304, -3.2390045206, "PA56000145", "\u00c9glise Notre-Dame de Piti\u00e9", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
+[47.745534949, -3.3585179671, "PA56000146", "Chambre de commerce et d\u2019industrie de Lorient et du Morbihan", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null, "1928"],
 ]

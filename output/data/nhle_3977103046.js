@@ -703,5 +703,6 @@ var monumentsHistoriques3977103046 = [
 [44.302178228, 0.3375886585, "PA47000116", "\u00c9glise Saint-F\u00e9lix", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [44.0584483006, 0.9285774716, "PA82000004", "Ch\u00e2teau de Candes", "arr\u00eat\u00e9", "Sun, 11 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA82000004&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [44.0873055074, 0.9281163203, "PA82000027", "Pigeonnier de Roques", "arr\u00eat\u00e9", "Fri, 16 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA82000027&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+[44.1092755616, 0.8913288027, "PA82000039", "Monument aux morts", "arr\u00eat\u00e9", "Sun, 18 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA82000039&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1919"],
 [44.1083275317, 0.8850255259, "PA82000051", "Groupe scolaire L\u00e9o-Gipoulou", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null, "1948;1955"],
 ]
