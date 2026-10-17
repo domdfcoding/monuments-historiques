@@ -430,6 +430,7 @@ var monumentsHistoriques3413750585 = [
 [44.2728007281, 2.5236924419, "PA12000091", "Basilique Notre-Dame de Ceignac", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null, "1667;1927"],
 [44.0515403557, 2.8331550732, "PA12000092", "\u00c9glise paroissiale  Saint-Victor", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [44.3498413051, 2.5709517826, "PA12000094", "H\u00f4pital Combarel", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
+[44.3506441365, 2.0379947097, "PA12000095", "H\u00f4tel Durand de Blonzac", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [44.8764765918, 2.8261789187, "PA15000001", "Chapelle Notre-Dame de Turlande", "arr\u00eat\u00e9", "Sun, 11 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA15000001&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1275"],
 [44.8773092906, 2.8851604005, "PA15000002", "\u00c9glise Sainte-Agathe", "arr\u00eat\u00e9", "Sun, 11 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA15000002&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [44.8889707888, 2.8175005682, "PA15000004", "\u00c9glise Saint-Saturnin", "arr\u00eat\u00e9", "Sun, 11 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA15000004&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1613;1876;1892"],
