@@ -112,13 +112,14 @@ def download_data(output_directory: PathLike) -> dict[str, Any]:
 			continue
 
 		lat, lng = json.loads(f"[{coords}]")
+		coordinates = [lng + 0.0, lat + 0.0]  # Add zero to eliminate -0.0
 
 		entry_id = feature.pop("Reference")
 		feature_properties = {"ListEntry": entry_id}
 		geojson["features"].append({
 				"type": "Feature",
 				"id": entry_id,
-				"geometry": {"type": "MultiPoint", "coordinates": [[lng, lat]]},
+				"geometry": {"type": "MultiPoint", "coordinates": [coordinates]},
 				"geometry_name": "geom",
 				"properties": feature_properties,
 				})
