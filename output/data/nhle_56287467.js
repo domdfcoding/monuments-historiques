@@ -465,6 +465,7 @@ var monumentsHistoriques56287467 = [
 [43.1816809447, 2.9415920925, "PA11000063", "Aqueduc dit des sources de Fontfroide", "arr\u00eat\u00e9", "Tue, 20 Jan 1970", null],
 [43.2094902704, 2.3654686457, "PA11000065", "Chapelle Notre-Dame de l\u2019Abbaye", "arr\u00eat\u00e9", "Tue, 20 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA11000065&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [43.106209401, 2.8166066859, "PA11000066", "Vestiges du ch\u00e2teau de Mons\u00e9ret", "arr\u00eat\u00e9", "Tue, 20 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA11000066&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+[43.2107909834, 2.3476726725, "PA11000068", "Bastion et jardin du Calvaire", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [43.2918766034, 2.5681992699, "PA11000069", "\u00c9glise paroissiale de la Transfiguration de J\u00e9sus-Christ", "arr\u00eat\u00e9", "Wed, 21 Jan 1970", null],
 [43.8836740432, 2.6030359848, "PA12000026", "Maison Malaval", "arr\u00eat\u00e9", "Tue, 13 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA12000026&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [43.8030948594, 2.9965151437, "PA12000031", "Ch\u00e2teau de la Roque", "arr\u00eat\u00e9", "Wed, 14 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA12000031&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1577"],
