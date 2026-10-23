@@ -1,7 +1,7 @@
 branca>=0.8.2
 consolekit>=1.13.0
 domdf-folium-tools>=0.1.0b33
-domdf-python-tools>=3.10.0
+domdf-python-tools>=3.11.0
 folium>=0.20.0
 folium-about-button>=0.2.0
 folium-map-search @ git+https://github.com/domdfcoding/folium-map-search

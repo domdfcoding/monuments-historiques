@@ -34,6 +34,7 @@ from urllib.parse import urljoin
 
 # 3rd party
 import requests
+from domdf_python_tools.dates import datetime_from_isoformat
 from domdf_python_tools.paths import PathPlus
 from domdf_python_tools.typing import PathLike
 
@@ -61,7 +62,7 @@ def download_data(output_directory: PathLike) -> dict[str, Any]:
 	meta_resp.raise_for_status()
 	meta_json = meta_resp.json()
 
-	created_at = datetime.datetime.fromisoformat(meta_json["created_at"]).astimezone(datetime.timezone.utc)
+	created_at = datetime_from_isoformat(meta_json["created_at"]).astimezone(datetime.timezone.utc)
 
 	profile_resp = requests.get(profile_url)
 	profile_resp.raise_for_status()
