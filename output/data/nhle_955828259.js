@@ -1,4 +1,4 @@
-// Lat: 47 — 5, Lng: 48 — 6,
+// Lat: 47 — 48, Lng: 5 — 6,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques955828259 = [
 [47.9304303046, 5.5130067114, "PA00078935", "Villa gallo-romaine (\u00e9galement sur commune de Val-de-Gris)", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00078935&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

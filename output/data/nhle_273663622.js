@@ -1,4 +1,4 @@
-// Lat: 44 — 3, Lng: 45 — 4,
+// Lat: 44 — 45, Lng: 3 — 4,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques273663622 = [
 [44.9060716816, 3.6819658134, "PA00092574", "\u00c9glise Saint-Martin", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00092574&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
@@ -155,7 +155,7 @@ var monumentsHistoriques273663622 = [
 [44.4707251023, 3.8510468728, "PA00103783", "Ch\u00e2teau du Champ", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00103783&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [44.6607881591, 3.6314464503, "PA00103784", "Croix en fer forg\u00e9", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00103784&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1790"],
 [44.7746264432, 3.7530597091, "PA00103785", "Croix", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00103785&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
-[44.4970199949, 3.4441202831, "PA00103786", "Dolmen de Changef\u00e8ge", "liste", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00103786&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
+[44.4970199949, 3.4441202831, "PA00103786", "Dolmen de Changef\u00e8ge dit \"Dolmen de la Tuile\"", "liste", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00103786&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [44.4522391658, 3.1937879876, "PA00103787", "Pont de Montferrand", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00103787&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [44.2447272438, 3.6543290103, "PA00103788", "\u00c9glise Notre-Dame-de-l'Assomption", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00103788&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
 [44.5363356306, 3.8784359256, "PA00103789", "\u00c9glise Saint-Laurent de Puylaurent", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00103789&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

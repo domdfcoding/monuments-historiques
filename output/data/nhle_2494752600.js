@@ -1,4 +1,4 @@
-// Lat: 47 — -4, Lng: 48 — -3,
+// Lat: 47 — 48, Lng: -4 — -3,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2494752600 = [
 [47.8976889762, -3.7315400454, "PA00089825", "All\u00e9e couverte", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00089825&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

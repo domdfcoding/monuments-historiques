@@ -1,4 +1,4 @@
-// Lat: 15 — -62, Lng: 16 — -61,
+// Lat: 15 — 16, Lng: -62 — -61,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2674524366 = [
 [15.9954986601, -61.7297625446, "PA00105849", "Cath\u00e9drale Notre-Dame de Guadeloupe, ancienne \u00e9glise Saint-Fran\u00e7ois", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105849&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1837"],

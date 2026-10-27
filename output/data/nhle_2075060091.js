@@ -1,4 +1,4 @@
-// Lat: 46 — 5, Lng: 47 — 6,
+// Lat: 46 — 47, Lng: 5 — 6,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2075060091 = [
 [46.9707976663, 5.9958295668, "PA00101695", "Ancienne taillanderie", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00101695&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1828"],

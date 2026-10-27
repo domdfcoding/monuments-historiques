@@ -1,4 +1,4 @@
-// Lat: 44 — 1, Lng: 45 — 2,
+// Lat: 44 — 45, Lng: 1 — 2,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3504002628 = [
 [44.8332647301, 1.073924966, "PA00082317", "\u00c9glise Saint-Martin et Sainte-Croix", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00082317&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

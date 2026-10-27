@@ -1,4 +1,4 @@
-// Lat: 43 — 3, Lng: 44 — 4,
+// Lat: 43 — 44, Lng: 3 — 4,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2162745516 = [
 [43.9122179039, 3.3178107107, "PA00094005", "Donjon et les restes du ch\u00e2teau", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00094005&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

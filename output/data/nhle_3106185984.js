@@ -1,4 +1,4 @@
-// Lat: 45 — 4, Lng: 46 — 5,
+// Lat: 45 — 46, Lng: 4 — 5,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3106185984 = [
 [45.3681042143, 4.1998654102, "PA00092584", "Ch\u00e2teau d'Aurec", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00092584&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

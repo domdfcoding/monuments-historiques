@@ -1,4 +1,4 @@
-// Lat: 50 — 4, Lng: 51 — 5,
+// Lat: 50 — 51, Lng: 4 — 5,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3429817811 = [
 [50.1444551757, 4.8056326977, "PA00078442", "Chapelle de Walcourt", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00078442&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1781"],

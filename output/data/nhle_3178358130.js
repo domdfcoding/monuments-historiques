@@ -1,4 +1,4 @@
-// Lat: 42 — 3, Lng: 43 — 4,
+// Lat: 42 — 43, Lng: 3 — 4,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3178358130 = [
 [42.9277464619, 3.0442615302, "PA00102741", "Ancien fanal, dit Redoute de la Franqui", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00102741&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

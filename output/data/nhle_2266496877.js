@@ -1,4 +1,4 @@
-// Lat: 42 — 1, Lng: 43 — 2,
+// Lat: 42 — 43, Lng: 1 — 2,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2266496877 = [
 [42.8208117941, 1.5875025705, "PA00093766", "Grotte de la Vache", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00093766&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

@@ -1,4 +1,4 @@
-// Lat: 48 — -2, Lng: 49 — -1,
+// Lat: 48 — 49, Lng: -2 — -1,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1220228713 = [
 [48.3932239781, -1.9860878223, "PA00089147", "Ch\u00e2teau de Beaumanoir", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00089147&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1628"],

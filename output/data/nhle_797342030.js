@@ -1,4 +1,4 @@
-// Lat: 44 — 6, Lng: 45 — 7,
+// Lat: 44 — 45, Lng: 6 — 7,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques797342030 = [
 [44.2380751409, 6.6284764451, "PA00080349", "\u00c9glise Notre-Dame-de-Valvert", "liste", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00080349&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

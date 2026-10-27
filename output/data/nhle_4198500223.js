@@ -1,4 +1,4 @@
-// Lat: 49 — 7, Lng: 50 — 8,
+// Lat: 49 — 50, Lng: 7 — 8,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques4198500223 = [
 [49.0029786595, 7.6138620385, "PA00084671", "Ch\u00e2teau de Hohenfels : vestiges en totalit\u00e9", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00084671&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

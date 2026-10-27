@@ -1,4 +1,4 @@
-// Lat: -13 — 45, Lng: -12 — 46,
+// Lat: -13 — -12, Lng: 45 — 46,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1793383790 = [
 [-12.7827094612, 45.2558502709, "PA97600001", "Ancienne r\u00e9sidence des Gouverneurs, situ\u00e9e au rocher de Dzaoudzi", "arr\u00eat\u00e9", "Fri, 16 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA97600001&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1844;1890"],

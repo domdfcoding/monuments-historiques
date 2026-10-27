@@ -1,4 +1,4 @@
-// Lat: 48 — 6, Lng: 49 — 7,
+// Lat: 48 — 49, Lng: 6 — 7,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3107112388 = [
 [48.9078033902, 6.9941035538, "PA00085292", "Domaine de Bonnefontaine", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00085292&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

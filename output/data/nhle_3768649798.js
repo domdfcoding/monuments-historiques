@@ -1,4 +1,4 @@
-// Lat: 44 — -1, Lng: 45 — 0,
+// Lat: 44 — 45, Lng: -1 — 0,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3768649798 = [
 [45.0, 0.0, "PA00082498", "Domaine du ch\u00e2teau de Connezac", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00082498&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

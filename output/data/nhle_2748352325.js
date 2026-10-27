@@ -1,4 +1,4 @@
-// Lat: 43 — 7, Lng: 44 — 8,
+// Lat: 43 — 44, Lng: 7 — 8,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2748352325 = [
 [43.6054114356, 7.0676214208, "PA00080649", "Aqueduc de Clausonnes (restes)", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00080649&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

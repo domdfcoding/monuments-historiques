@@ -1,4 +1,4 @@
-// Lat: 46 — -57, Lng: 47 — -56,
+// Lat: 46 — 47, Lng: -57 — -56,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques620506070 = [
 [46.7784774774, -56.1750116435, "PA97500002", "Forge Lebailly", "arr\u00eat\u00e9", "Fri, 16 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA97500002&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1878"],

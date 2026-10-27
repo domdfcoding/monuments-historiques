@@ -1,4 +1,4 @@
-// Lat: 46 — 4, Lng: 47 — 5,
+// Lat: 46 — 47, Lng: 4 — 5,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2875638490 = [
 [46.9861567004, 4.7473253095, "PA00112077", "Cimeti\u00e8re", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00112077&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

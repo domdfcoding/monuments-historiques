@@ -1,4 +1,4 @@
-// Lat: 44 — 7, Lng: 45 — 8,
+// Lat: 44 — 45, Lng: 7 — 8,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1447587813 = [
 [44.0630147196, 7.6133837755, "PA00080679", "Chapelle inf\u00e9rieure de l'Assomption ou chapelle des P\u00e9nitents Blancs d'en-bas", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00080679&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

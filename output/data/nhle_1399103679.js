@@ -1,4 +1,4 @@
-// Lat: 48 — -6, Lng: 49 — -5,
+// Lat: 48 — 49, Lng: -6 — -5,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1399103679 = [
 [48.4592283342, -5.1290350159, "PA29000048", "Phare du Cr\u00e9ac'h", "arr\u00eat\u00e9", "Wed, 14 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA29000048&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1863;1940"],

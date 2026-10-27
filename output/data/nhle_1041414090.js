@@ -1,4 +1,4 @@
-// Lat: 42 — -1, Lng: 43 — 0,
+// Lat: 42 — 43, Lng: -1 — 0,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1041414090 = [
 [42.9856040132, -0.5964480266, "PA00084301", "Chapelle Saint-Saturnin de Jouers", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00084301&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

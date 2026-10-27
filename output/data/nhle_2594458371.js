@@ -1,4 +1,4 @@
-// Lat: 41 — 8, Lng: 42 — 9,
+// Lat: 41 — 42, Lng: 8 — 9,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2594458371 = [
 [41.9173938721, 8.7378505044, "PA00099058", "Cath\u00e9drale Santa Maria Assunta ou cath\u00e9drale Notre-Dame", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00099058&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1582"],

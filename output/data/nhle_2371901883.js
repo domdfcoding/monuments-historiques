@@ -1,4 +1,4 @@
-// Lat: 17 — -63, Lng: 18 — -62,
+// Lat: 17 — 18, Lng: -63 — -62,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2371901883 = [
 [17.8951375046, -62.8504998374, "PA00105883", "Maison Dinzey, dite Le Brigantin, \u00e0 Gustavia", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", null, "1822"],

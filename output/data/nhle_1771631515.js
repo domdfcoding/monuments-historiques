@@ -1,4 +1,4 @@
-// Lat: 47 — -1, Lng: 48 — 0,
+// Lat: 47 — 48, Lng: -1 — 0,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1771631515 = [
 [47.0528866795, -0.2269970481, "PA00101178", "Ancien pont de Taizon", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00101178&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

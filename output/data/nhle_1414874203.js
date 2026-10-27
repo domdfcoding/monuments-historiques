@@ -1,4 +1,4 @@
-// Lat: 47 — 6, Lng: 48 — 7,
+// Lat: 47 — 48, Lng: 6 — 7,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1414874203 = [
 [47.7729496909, 6.9973583562, "PA00085509", "Ancienne abbaye", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00085509&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

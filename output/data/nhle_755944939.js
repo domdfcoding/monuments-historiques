@@ -1,4 +1,4 @@
-// Lat: 48 — 8, Lng: 49 — 9,
+// Lat: 48 — 49, Lng: 8 — 9,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques755944939 = [
 [48.9748433027, 8.1780699012, "PA00084768", "Calvaire", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00084768&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

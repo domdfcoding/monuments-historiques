@@ -1,4 +1,4 @@
-// Lat: 5 — -53, Lng: 6 — -52,
+// Lat: 5 — 6, Lng: -53 — -52,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3578586225 = [
 [5.2908443865, -52.5849249912, "PA00105897", "Maison de Dreyfus, sur l'\u00eele du Diable", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105897&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
