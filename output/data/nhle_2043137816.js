@@ -1,4 +1,4 @@
-// Lat: 42 — 8, Lng: 43 — 9,
+// Lat: 42 — 43, Lng: 8 — 9,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2043137816 = [
 [42.1335809995, 8.5948964177, "PA00099088", "\u00c9glise Saint-Spiridon dite grecque", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00099088&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1868;1874"],

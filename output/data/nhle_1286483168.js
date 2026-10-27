@@ -1,4 +1,4 @@
-// Lat: 43 — 5, Lng: 44 — 6,
+// Lat: 43 — 44, Lng: 5 — 6,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1286483168 = [
 [43.8591933005, 5.5949637993, "PA00080364", "Pont romain sur le ravin de l'Encreme", "liste", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00080364&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

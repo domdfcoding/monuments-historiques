@@ -1,4 +1,4 @@
-// Lat: 46 — -3, Lng: 47 — -2,
+// Lat: 46 — 47, Lng: -3 — -2,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1084404619 = [
 [46.9378729156, -2.1664642084, "PA00110030", "Moulin \u00e0 vent dit Moulin de la Plaine", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00110030&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

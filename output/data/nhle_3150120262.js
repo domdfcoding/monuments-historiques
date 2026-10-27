@@ -1,4 +1,4 @@
-// Lat: 41 — 9, Lng: 42 — 10,
+// Lat: 41 — 42, Lng: 9 — 10,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3150120262 = [
 [41.961266966, 9.0022606347, "PA00099075", "Pont g\u00e9nois de Zippitoli", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00099075&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

@@ -1,4 +1,4 @@
-// Lat: 45 — 2, Lng: 46 — 3,
+// Lat: 45 — 46, Lng: 2 — 3,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2321913336 = [
 [45.945688322, 2.7917209648, "PA00091861", "\u00c9glise Notre-Dame de Comps", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00091861&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

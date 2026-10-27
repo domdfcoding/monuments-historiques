@@ -1,4 +1,4 @@
-// Lat: 44 — 4, Lng: 45 — 5,
+// Lat: 44 — 45, Lng: 4 — 5,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3950827730 = [
 [44.0410619877, 4.8986089489, "PA00081964", "\u00c9glise paroissiale Saint-Etienne et de l'Assomption", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00081964&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1630;1676"],

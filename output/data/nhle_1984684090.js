@@ -1,4 +1,4 @@
-// Lat: 45 — 1, Lng: 46 — 2,
+// Lat: 45 — 46, Lng: 1 — 2,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1984684090 = [
 [45.1563508539, 1.0155389567, "PA00082314", "Ch\u00e2teau", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00082314&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

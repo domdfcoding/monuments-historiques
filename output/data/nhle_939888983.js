@@ -1,4 +1,4 @@
-// Lat: 47 — 2, Lng: 48 — 3,
+// Lat: 47 — 48, Lng: 2 — 3,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques939888983 = [
 [47.2791253802, 2.4498024022, "PA00096625", "\u00c9glise Notre-Dame", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00096625&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

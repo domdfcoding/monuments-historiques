@@ -1,4 +1,4 @@
-// Lat: 42 — 9, Lng: 43 — 10,
+// Lat: 42 — 43, Lng: 9 — 10,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques400276422 = [
 [42.1045617993, 9.5117016493, "PA00099149", "\u00c9glise Saint-Marcel", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00099149&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

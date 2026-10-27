@@ -1,4 +1,4 @@
-// Lat: 48 — -3, Lng: 49 — -2,
+// Lat: 48 — 49, Lng: -3 — -2,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2304626157 = [
 [48.4759227427, -2.9840664259, "PA00089025", "Chapelle Notre-Dame-de-Piti\u00e9", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00089025&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

@@ -1,4 +1,4 @@
-// Lat: 46 — -1, Lng: 47 — 0,
+// Lat: 46 — 47, Lng: -1 — 0,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2166881824 = [
 [47.0, 0.0, "PA00098067", "Manoir de Vaud\u00e9sir", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00098067&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

@@ -1,4 +1,4 @@
-// Lat: 50 — 7, Lng: 51 — 8,
+// Lat: 50 — 51, Lng: 7 — 8,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1843338856 = [
 [50.9769712893, 7.6806212672, "PA00125222", "Pont num\u00e9ro 1", "arr\u00eat\u00e9", "Sat, 10 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00125222&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

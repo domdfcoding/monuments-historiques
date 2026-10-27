@@ -1,4 +1,4 @@
-// Lat: 45 — -2, Lng: 46 — -1,
+// Lat: 45 — 46, Lng: -2 — -1,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3758669134 = [
 [45.4305931441, -1.0355076364, "PA00083813", "\u00c9glise Saint-Vivien", "liste;arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00083813&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1850;1957"],

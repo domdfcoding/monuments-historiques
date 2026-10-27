@@ -1,4 +1,4 @@
-// Lat: 47 — -2, Lng: 48 — -1,
+// Lat: 47 — 48, Lng: -2 — -1,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques4132829864 = [
 [47.9273215971, -1.3030607279, "PA00090497", "\u00c9glise Notre-Dame-de-l'Assomption", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00090497&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

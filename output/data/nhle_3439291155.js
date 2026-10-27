@@ -1,4 +1,4 @@
-// Lat: 47 — -3, Lng: 48 — -2,
+// Lat: 47 — 48, Lng: -3 — -2,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3439291155 = [
 [47.8455447224, -2.0996532045, "PA00090535", "Temple romano-celtique heptagonal", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00090535&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

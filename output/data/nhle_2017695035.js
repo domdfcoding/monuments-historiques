@@ -1,4 +1,4 @@
-// Lat: 42 — 0, Lng: 43 — 1,
+// Lat: 42 — 43, Lng: 0 — 1,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2017695035 = [
 [42.8812942588, 0.9435585433, "PA00093767", "Croix de marbre", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00093767&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1785"],

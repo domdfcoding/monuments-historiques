@@ -1,4 +1,4 @@
-// Lat: 48 — -4, Lng: 49 — -3,
+// Lat: 48 — 49, Lng: -4 — -3,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2279333543 = [
 [48.6220396743, -3.3252330813, "PA00089018", "Chapelle Sainte-Tunvel de Botl\u00e9zan", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00089018&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

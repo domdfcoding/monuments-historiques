@@ -1,4 +1,4 @@
-// Lat: 42 — 4, Lng: 43 — 5,
+// Lat: 42 — 43, Lng: 4 — 5,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2985995804 = [
 [43.0, 5.0, "PA13000105", "Colonne du D\u00e9vouement ou colonne de la Peste", "arr\u00eat\u00e9", "Tue, 20 Jan 1970", null],

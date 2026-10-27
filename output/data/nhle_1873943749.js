@@ -1,4 +1,4 @@
-// Lat: 47 — -5, Lng: 48 — -4,
+// Lat: 47 — 48, Lng: -5 — -4,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1873943749 = [
 [47.8770972837, -4.0471680087, "PA00089830", "Chapelle de Perguet", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00089830&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1595"],

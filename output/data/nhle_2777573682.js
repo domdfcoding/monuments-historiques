@@ -1,4 +1,4 @@
-// Lat: 48 — 3, Lng: 49 — 4,
+// Lat: 48 — 49, Lng: 3 — 4,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2777573682 = [
 [48.2237888048, 3.7390246342, "PA00078014", "Chapelle Saint-Avit", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00078014&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

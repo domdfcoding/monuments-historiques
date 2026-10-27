@@ -1,4 +1,4 @@
-// Lat: 4 — -53, Lng: 5 — -52,
+// Lat: 4 — 5, Lng: -53 — -52,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1440225535 = [
 [4.939049645, -52.3360595849, "PA00105893", "Conseil g\u00e9n\u00e9ral", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105893&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

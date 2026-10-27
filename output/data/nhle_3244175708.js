@@ -1,4 +1,4 @@
-// Lat: 50 — 3, Lng: 51 — 4,
+// Lat: 50 — 51, Lng: 3 — 4,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3244175708 = [
 [50.2668270966, 3.1461589873, "PA00107349", "Menhir dit La Pierre qui Pousse", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00107349&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

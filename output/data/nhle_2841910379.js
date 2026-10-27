@@ -1,4 +1,4 @@
-// Lat: 44 — -2, Lng: 45 — -1,
+// Lat: 44 — 45, Lng: -2 — -1,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2841910379 = [
 [44.7426853079, -1.1057808009, "PA00083111", "Substructions gallo-romaines", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00083111&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

@@ -1,4 +1,4 @@
-// Lat: 50 — 2, Lng: 51 — 3,
+// Lat: 50 — 51, Lng: 2 — 3,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques4273702818 = [
 [50.8329530291, 2.3997285919, "PA00107348", "Motte f\u00e9odale avec foss\u00e9s", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00107348&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

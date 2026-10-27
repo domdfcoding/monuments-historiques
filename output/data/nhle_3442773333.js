@@ -1,4 +1,4 @@
-// Lat: 48 — 2, Lng: 49 — 3,
+// Lat: 48 — 49, Lng: 2 — 3,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3442773333 = [
 [48.7994615866, 2.3321724703, "PA00079845", "Aqueduc des Eaux de Rungis (\u00e9galement sur communes de Rungis, Fresnes, L'Hay-les-Roses, Cachan, Gentilly et Paris 14)", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00079845&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1615;1623"],

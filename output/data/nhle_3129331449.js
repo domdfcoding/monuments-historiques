@@ -1,4 +1,4 @@
-// Lat: 48 — 0, Lng: 49 — 1,
+// Lat: 48 — 49, Lng: 0 — 1,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3129331449 = [
 [48.2684491982, 0.9441387257, "PA00096958", "Ch\u00e2teau d'Oursi\u00e8res", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00096958&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

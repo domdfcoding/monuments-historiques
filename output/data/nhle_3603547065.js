@@ -1,4 +1,4 @@
-// Lat: 47 — 0, Lng: 48 — 1,
+// Lat: 47 — 48, Lng: 0 — 1,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3603547065 = [
 [47.4215272588, 0.994238225, "PA00097502", "Chapelle Saint-Jean", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00097502&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

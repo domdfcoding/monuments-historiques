@@ -1,4 +1,4 @@
-// Lat: 49 — 5, Lng: 50 — 6,
+// Lat: 49 — 50, Lng: 5 — 6,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques773167475 = [
 [49.5383145384, 5.0579511452, "PA00078342", "Maison \u00e0 arcades", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00078342&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

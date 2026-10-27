@@ -1,4 +1,4 @@
-// Lat: 44 — 5, Lng: 45 — 6,
+// Lat: 44 — 45, Lng: 5 — 6,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2581446229 = [
 [44.0384218071, 5.6273340054, "PA00080352", "Portail f\u00e9odal (ancien)", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00080352&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1600"],
