@@ -1,4 +1,4 @@
-// Lat: 42 — 2, Lng: 43 — 3,
+// Lat: 42 — 43, Lng: 2 — 3,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1958713440 = [
 [42.7354065585, 2.0876585651, "PA00093902", "Ch\u00e2teau d'Usson-les-Bains", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00093902&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

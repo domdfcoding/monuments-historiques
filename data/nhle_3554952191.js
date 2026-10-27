@@ -1,4 +1,4 @@
-// Lat: 45 — 5, Lng: 46 — 6,
+// Lat: 45 — 46, Lng: 5 — 6,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3554952191 = [
 [45.9485049258, 5.3727744264, "PA00116289", "Maison-forte de Saint-Germain dite Tour de Gy", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00116289&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

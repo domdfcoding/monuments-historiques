@@ -1,4 +1,4 @@
-// Lat: 5 — -55, Lng: 6 — -54,
+// Lat: 5 — 6, Lng: -55 — -54,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques484059997 = [
 [5.5011884394, -54.0321829842, "PA00105912", "Ancien h\u00f4pital Andr\u00e9-Bouron", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105912&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

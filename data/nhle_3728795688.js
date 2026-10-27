@@ -1,4 +1,4 @@
-// Lat: 14 — -62, Lng: 15 — -61,
+// Lat: 14 — 15, Lng: -62 — -61,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3728795688 = [
 [14.8576913201, -61.1009014427, "PA00105935", "Habitation Pecoul", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105935&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1778"],

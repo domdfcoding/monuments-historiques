@@ -1,4 +1,4 @@
-// Lat: 16 — -62, Lng: 17 — -61,
+// Lat: 16 — 17, Lng: -62 — -61,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1194903445 = [
 [16.0130756828, -61.7465353997, "PA00105848", "Tour dite Tour du P\u00e8re-Labat", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105848&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1703"],

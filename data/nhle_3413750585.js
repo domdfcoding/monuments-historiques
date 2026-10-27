@@ -1,4 +1,4 @@
-// Lat: 44 — 2, Lng: 45 — 3,
+// Lat: 44 — 45, Lng: 2 — 3,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3413750585 = [
 [44.8795096754, 2.4205823627, "PA00093444", "Ch\u00e2teau de Conros", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00093444&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

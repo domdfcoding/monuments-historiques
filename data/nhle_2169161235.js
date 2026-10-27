@@ -1,4 +1,4 @@
-// Lat: 49 — 4, Lng: 50 — 5,
+// Lat: 49 — 50, Lng: 4 — 5,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2169161235 = [
 [49.5127452977, 4.5563203813, "PA00078329", "\u00c9glise Sainte-Catherine", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00078329&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

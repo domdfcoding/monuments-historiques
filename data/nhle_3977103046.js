@@ -1,4 +1,4 @@
-// Lat: 44 — 0, Lng: 45 — 1,
+// Lat: 44 — 45, Lng: 0 — 1,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3977103046 = [
 [44.8802246984, 0.9472749727, "PA00082326", "\u00c9glise Saint-Pierre", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00082326&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

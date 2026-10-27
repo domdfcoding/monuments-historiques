@@ -1,4 +1,4 @@
-// Lat: 49 — 2, Lng: 50 — 3,
+// Lat: 49 — 50, Lng: 2 — 3,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1224693249 = [
 [49.0045415315, 2.2980171493, "PA00079976", "Colombier", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00079976&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

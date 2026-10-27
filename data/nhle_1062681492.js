@@ -1,4 +1,4 @@
-// Lat: 48 — 7, Lng: 49 — 8,
+// Lat: 48 — 49, Lng: 7 — 8,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1062681492 = [
 [48.9050647632, 7.2100746116, "PA00084578", "Banc-reposoir napol\u00e9onien", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00084578&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1856"],

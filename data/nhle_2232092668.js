@@ -1,4 +1,4 @@
-// Lat: 47 — 7, Lng: 48 — 8,
+// Lat: 47 — 48, Lng: 7 — 8,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2232092668 = [
 [47.6243492029, 7.2528921485, "PA00085315", "\u00c9glise Saint-Morand", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00085315&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

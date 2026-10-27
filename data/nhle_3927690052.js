@@ -1,4 +1,4 @@
-// Lat: 51 — 2, Lng: 52 — 3,
+// Lat: 51 — 52, Lng: 2 — 3,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3927690052 = [
 [51.0356528475, 2.3771658213, "PA00107488", "\u00c9glise Saint-\u00c9loi", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00107488&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

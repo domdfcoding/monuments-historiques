@@ -1,4 +1,4 @@
-// Lat: -22 — 55, Lng: -21 — 56,
+// Lat: -22 — -21, Lng: 55 — 56,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques4213957834 = [
 [-21.0636391599, 55.7040770193, "PA00105810", "Domaine de la Confiance ou domaine Carr\u00e8re", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105810&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1860"],

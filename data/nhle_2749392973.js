@@ -1,4 +1,4 @@
-// Lat: 14 — -61, Lng: 15 — -60,
+// Lat: 14 — 15, Lng: -61 — -60,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2749392973 = [
 [14.4701362793, -60.8721388618, "PA00105945", "\u00c9glise paroissiale Saint-\u00c9tienne", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105945&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1766"],

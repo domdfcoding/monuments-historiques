@@ -1,4 +1,4 @@
-// Lat: 43 — -2, Lng: 44 — -1,
+// Lat: 43 — 44, Lng: -2 — -1,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques1556701692 = [
 [43.4550347675, -1.1723547363, "PA00081624", "Thermes antiques (restes)", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00081624&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

@@ -1,4 +1,4 @@
-// Lat: 2 — -55, Lng: 3 — -54,
+// Lat: 2 — 3, Lng: -55 — -54,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques4282744158 = [
 [2.227331179, -54.108391154, "PA00135688", "Roches grav\u00e9es de la crique du Marouini", "arr\u00eat\u00e9", "Sat, 10 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00135688&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

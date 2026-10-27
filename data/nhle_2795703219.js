@@ -1,4 +1,4 @@
-// Lat: 49 — -2, Lng: 50 — -1,
+// Lat: 49 — 50, Lng: -2 — -1,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2795703219 = [
 [49.0535323218, -1.5874901392, "PA00110317", "Vieux manoir de Coutainville", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00110317&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

@@ -1,4 +1,4 @@
-// Lat: 45 — 6, Lng: 46 — 7,
+// Lat: 45 — 46, Lng: 6 — 7,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2123342651 = [
 [45.0493164434, 6.2952072824, "PA00080572", "\u00c9glise Saint-Matthieu, situ\u00e9e au hameau des Terrasses", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00080572&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

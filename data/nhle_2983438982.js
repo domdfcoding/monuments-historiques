@@ -1,4 +1,4 @@
-// Lat: 49 — 0, Lng: 50 — 1,
+// Lat: 49 — 50, Lng: 0 — 1,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2983438982 = [
 [49.1709666757, 0.7036123439, "PA00099288", "Logis et grange du Manoir de la Haule", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00099288&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

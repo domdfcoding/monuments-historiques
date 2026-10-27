@@ -1,4 +1,4 @@
-// Lat: 47 — 1, Lng: 48 — 2,
+// Lat: 47 — 48, Lng: 1 — 2,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques4047446930 = [
 [47.2090213385, 1.9182662001, "PA00096802", "Ch\u00e2teau de la Maisonfort", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00096802&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple", "1586"],

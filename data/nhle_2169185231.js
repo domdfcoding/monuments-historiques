@@ -1,4 +1,4 @@
-// Lat: 43 — -1, Lng: 44 — 0,
+// Lat: 43 — 44, Lng: -1 — 0,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques2169185231 = [
 [44.0, 0.0, "PA00083150", "Ancienne \u00e9glise abbatiale Saint-Maurice, actuelle \u00e9glise Saint-Nicolas", "liste", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00083150&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],

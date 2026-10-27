@@ -1,4 +1,4 @@
-// Lat: -21 — 55, Lng: -20 — 56,
+// Lat: -21 — -20, Lng: 55 — 56,
 // Lat,Lng,Number,Name,Grade,ListDate,Link,Notes?, Polygon Points?,
 var monumentsHistoriques3031921089 = [
 [-20.9499224698, 55.6580607971, "PA00105809", "Maison Martin ou Martin Valliam\u00e9, actuellement office du tourisme de Saint-Andr\u00e9", "arr\u00eat\u00e9", "Fri, 09 Jan 1970", "https://archives-map.culture.gouv.fr/archive/recherche/simple/n:19?RECH_S=PA00105809&RECH_DocumentsNumerises=0&Archives.RECH_Valid=&type=simple"],
